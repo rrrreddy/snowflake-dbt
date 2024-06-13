@@ -1,5 +1,5 @@
 Welcome to your new dbt project!
-
+(.sql files in models)
 ### Using the starter project
 
 Try running the following commands:
